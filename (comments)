@@ -1,2 +1,10 @@
 To finish, I need to link the sql to the actual table.
 Additioanlly, I wouldlike to have the option to arrange the songs alphabetically.
+UPDATE: iterm application for sending data fails due to an unknown pathway. I would need to fix this to link the two.
+TODO: alphabetical organizer and color code based on style of song
+      blue: shuffle
+      red: western swing
+      green: two beat/train beat
+      purple: ballad
+      yellow: waltz
+      orange: instrumental
